@@ -68,7 +68,7 @@
         
         commands.cat = function(args) {
             if (args[1] == "password.txt.hash"){
-                return "8763318469d71dfad2059bbfcddd0fc0"
+                return "0d779f7363c613edb7eb8b713a68dc80"
             }
             return "Error: File not found"
         }
@@ -78,10 +78,10 @@
                 return "Error: Username not found"
             }
             p = btoa(args[2]);
-            if (p != "aGFja2VyNjk=") {
+            if (p != "VGVtcGVzdA==") {
                 return "Error: Incorrect Password"
             }
-            a = atob("PGEgaHJlZj0nNF9zdGVnLmh0bWwnPkNsaWNrIGhlcmUgdG8gZ2V0IHRvIHRoZSBuZXh0IGNoYWxsZW5nZSE8L2E+");
+            a = atob("ZmxhZ19hcmV0cDg0MTA7IDdlbXBlc3QjMjk0MQpzZW5kIG1lIGEgZG0gbG9s");
             return a;
         }
 
