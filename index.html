@@ -94,11 +94,7 @@
             if (args.length < 2) return "<p>Hello, what's your name?</p>";
             return "Hello " + args[1];
         };
-
-        if(!commands.hello && !commands.login && !commands.cat && !commands.cd && !commands.credits && !commands.ls){
-            return "Command not found";
-        };
-
+            
 
         Terminal.init(document.getElementById("terminal"), commands);
     </script>
