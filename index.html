@@ -95,6 +95,10 @@
             return "Hello " + args[1];
         };
 
+        if (commands==null){
+            return "Command not found"
+        }
+
 
         Terminal.init(document.getElementById("terminal"), commands);
     </script>
