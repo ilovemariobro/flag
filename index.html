@@ -37,11 +37,12 @@
         commands.help = function () {
             var output = "<div>" +
                 "<ul>" +
-                "<li><strong>help</strong> - display this.</li>" +
+                "<li><strong>help</strong> - display this</li>" +
                 "<li><strong>ls</strong> - prints files in current directory</li>" +
                 "<li><strong>cat FILENAME</strong> - prints out contents of file FILENAME</li>" +
-                "<li><strong>hello NAME</strong> - displays a greeting for NAME.</li>" +
+                "<li><strong>hello NAME</strong> - displays a greeting for NAME</li>" +
                 "<li><strong>login USERNAME PASSWORD</strong> - logs in</li>" +
+                "<li><strong>credits</strong> - credits</li>" +
                 
                 "</ul></div>";
             return output;
@@ -49,6 +50,11 @@
 
         commands.ls = function () {
             var output = "<br>password.txt.hash<br><br>"
+            return output;
+        }
+        
+        commands.credits = function () {
+            var output = "<p>made by rad with love, inspiration given by friends</p>"
             return output;
         }
 
@@ -67,7 +73,7 @@
         
         commands.cat = function(args) {
             if (args[1] == "password.txt.hash"){
-                return "0d779f7363c613edb7eb8b713a68dc80"
+                return "12d5d22ffcb120037ae684c2c8c908df"
             }
             return "Error: File not found"
         }
@@ -77,10 +83,10 @@
                 return "Error: Username not found"
             }
             p = btoa(args[2]);
-            if (p != "VGVtcGVzdA==") {
+            if (p != "cmFkaWNhbA==") {
                 return "Error: Incorrect Password"
             }
-            a = atob("ZmxhZ19hcmV0cDg0MTA7IDdlbXBlc3QjMjk0MQpzZW5kIG1lIGEgZG0gbG9s");
+            a = atob("ZmxhZ19mdW1vMTgyMApzaG9vdCBtZSBhIGRtIGxvbCByYWQjOTk5OQ==");
             return a;
         }
 
