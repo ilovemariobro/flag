@@ -4,10 +4,6 @@
     height:      100vh;
 }
 
-/**
-* The input span where the input happens.
-* Also applied to the previous inputs made in the current session.
-*/
 #terminal .input {
     height:         1em;
     min-width:      1em;
