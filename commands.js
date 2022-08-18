@@ -1,4 +1,4 @@
-function kendyle(yuvaan, enissa) {
+function kendyle(yuvaan, enissa) { 
   var auraya = amariyon();
   return kendyle = function (hyab, tamikia) {
     hyab = hyab - 363;
