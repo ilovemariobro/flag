@@ -1,1 +1,76 @@
-function _0x5994(_0x6c45e8,_0x53871d){var _0xa91558=_0xa915();return _0x5994=function(_0x5994a7,_0x54f1f5){_0x5994a7=_0x5994a7-0x16b;var _0x2a75fc=_0xa91558[_0x5994a7];return _0x2a75fc;},_0x5994(_0x6c45e8,_0x53871d);}var _0x46d3b9=_0x5994;(function(_0x197ff4,_0x50157d){var _0x33ed86=_0x5994,_0x39bc49=_0x197ff4();while(!![]){try{var _0x57e93e=-parseInt(_0x33ed86(0x182))/0x1+parseInt(_0x33ed86(0x184))/0x2+-parseInt(_0x33ed86(0x188))/0x3*(-parseInt(_0x33ed86(0x18b))/0x4)+parseInt(_0x33ed86(0x17a))/0x5+-parseInt(_0x33ed86(0x173))/0x6*(-parseInt(_0x33ed86(0x178))/0x7)+-parseInt(_0x33ed86(0x17e))/0x8+parseInt(_0x33ed86(0x18f))/0x9*(-parseInt(_0x33ed86(0x17b))/0xa);if(_0x57e93e===_0x50157d)break;else _0x39bc49['push'](_0x39bc49['shift']());}catch(_0x51a497){_0x39bc49['push'](_0x39bc49['shift']());}}}(_0xa915,0x4cfc6));var commands={};function _0xa915(){var _0x4863dd=['<p>made\x20by\x20rad\x20with\x20love,\x20inspiration\x20given\x20by\x20friends</p>','cat','1073168ixyQTK','terminal','Hello\x20','password.txt.hash','619036kFmlQk','length','1058352OLrKDo','</ul></div>','Permission\x20Denied','<br>password.txt.hash<br><br>','3csslOT','Error:\x20Username\x20not\x20found','login','2347112VgTFeL','<li><strong>credits</strong>\x20-\x20credits</li>','curl','init','12357cboXIt','<ul>','12d5d22ffcb120037ae684c2c8c908df','<li><strong>hello\x20NAME</strong>\x20-\x20displays\x20a\x20greeting\x20for\x20NAME</li>','help','<li><strong>cat\x20FILENAME</strong>\x20-\x20prints\x20out\x20contents\x20of\x20file\x20FILENAME</li>','<li><strong>ls</strong>\x20-\x20prints\x20files\x20in\x20current\x20directory</li>','<p>Hello,\x20what\x27s\x20your\x20name?</p>','ZmxhZ19mdW1vMTgyMApzaG9vdCBtZSBhIGRtIGxvbCByYWQjOTk5OQ==','apt','2240574wpIakB','Command\x20not\x20found','credits','<div>','grep','7oQgrrL','getElementById','1987205JFDuDu','5960nXTWlt'];_0xa915=function(){return _0x4863dd;};return _0xa915();}commands[_0x46d3b9(0x16d)]=function(){var _0x4f0899=_0x46d3b9,_0x17f777=_0x4f0899(0x176)+_0x4f0899(0x190)+'<li><strong>help</strong>\x20-\x20display\x20this</li>'+_0x4f0899(0x16f)+_0x4f0899(0x16e)+_0x4f0899(0x16c)+'<li><strong>login\x20USERNAME\x20PASSWORD</strong>\x20-\x20logs\x20in</li>'+_0x4f0899(0x18c)+_0x4f0899(0x185);return _0x17f777;},commands['ls']=function(){var _0x1b83c9=_0x46d3b9,_0x9abe74=_0x1b83c9(0x187);return _0x9abe74;},commands[_0x46d3b9(0x175)]=function(){var _0x18e992=_0x46d3b9,_0x1b6e4f=_0x18e992(0x17c);return _0x1b6e4f;},commands['cd']=function(){var _0x35176e=_0x46d3b9;return _0x35176e(0x186);},commands['sudo']=function(){var _0x454d0f=_0x46d3b9;return _0x454d0f(0x174);},commands['su']=function(){var _0x35f37f=_0x46d3b9;return _0x35f37f(0x174);},commands[_0x46d3b9(0x172)]=function(){var _0xe6867d=_0x46d3b9;return _0xe6867d(0x174);},commands['ps']=function(){var _0x59057d=_0x46d3b9;return _0x59057d(0x174);},commands['htop']=function(){var _0x4bab3c=_0x46d3b9;return _0x4bab3c(0x174);},commands[_0x46d3b9(0x177)]=function(){var _0x200972=_0x46d3b9;return _0x200972(0x174);},commands[_0x46d3b9(0x18d)]=function(){var _0x25bc4c=_0x46d3b9;return _0x25bc4c(0x174);},commands[_0x46d3b9(0x17d)]=function(_0x338c13){var _0x5a01ee=_0x46d3b9;if(_0x338c13[0x1]==_0x5a01ee(0x181))return _0x5a01ee(0x16b);return'Error:\x20File\x20not\x20found';},commands[_0x46d3b9(0x18a)]=function(_0x4cdc8f){var _0xf954fd=_0x46d3b9;if(_0x4cdc8f[0x1]!='root')return _0xf954fd(0x189);p=btoa(_0x4cdc8f[0x2]);if(p!='cmFkaWNhbA==')return'Error:\x20Incorrect\x20Password';return a=atob(_0xf954fd(0x171)),a;},commands['hello']=function(_0x3c636e){var _0x1cc4b0=_0x46d3b9;if(_0x3c636e[_0x1cc4b0(0x183)]<0x2)return _0x1cc4b0(0x170);return _0x1cc4b0(0x180)+_0x3c636e[0x1];},Terminal[_0x46d3b9(0x18e)](document[_0x46d3b9(0x179)](_0x46d3b9(0x17f)),commands);
+function kendyle(yuvaan, enissa) {
+  var auraya = amariyon();
+  return kendyle = function (hyab, tamikia) {
+    hyab = hyab - 363;
+    var arye = auraya[hyab];
+    return arye;
+  }, kendyle(yuvaan, enissa);
+}
+var lilieth = kendyle;
+(function (morica, isalia) {
+  var khaleelah = kendyle, elwell = morica();
+  while (true) {
+    try {
+      var christobel = -parseInt(khaleelah(386)) / 1 + parseInt(khaleelah(388)) / 2 + -parseInt(khaleelah(392)) / 3 * (-parseInt(khaleelah(395)) / 4) + parseInt(khaleelah(378)) / 5 + -parseInt(khaleelah(371)) / 6 * (-parseInt(khaleelah(376)) / 7) + -parseInt(khaleelah(382)) / 8 + parseInt(khaleelah(399)) / 9 * (-parseInt(khaleelah(379)) / 10);
+      if (christobel === isalia) break; else elwell.push(elwell.shift());
+    } catch (dekayla) {
+      elwell.push(elwell.shift());
+    }
+  }
+}(amariyon, 315334));
+var commands = {};
+function amariyon() {
+  var charisha = ["<p>made by rad with love, inspiration given by friends</p>", "cat", "1073168ixyQTK", "terminal", "Hello ", "password.txt.hash", "619036kFmlQk", "length", "1058352OLrKDo", "</ul></div>", "Permission Denied", "<br>password.txt.hash<br><br>", "3csslOT", "Error: Username not found", "login", "2347112VgTFeL", "<li><strong>credits</strong> - credits</li>", "curl", "init", "12357cboXIt", "<ul>", "12d5d22ffcb120037ae684c2c8c908df", "<li><strong>hello NAME</strong> - displays a greeting for NAME</li>", "help", "<li><strong>cat FILENAME</strong> - prints out contents of file FILENAME</li>", "<li><strong>ls</strong> - prints files in current directory</li>", "<p>Hello, what's your name?</p>", "ZmxhZ19mdW1vMTgyMApzaG9vdCBtZSBhIGRtIGxvbCByYWQjOTk5OQ==", "apt", "2240574wpIakB", "Command not found", "credits", "<div>", "grep", "7oQgrrL", "getElementById", "1987205JFDuDu", "5960nXTWlt"];
+  amariyon = function () {
+    return charisha;
+  };
+  return amariyon();
+}
+commands[lilieth(365)] = function () {
+  var lucuis = lilieth, antonita = lucuis(374) + lucuis(400) + "<li><strong>help</strong> - display this</li>" + lucuis(367) + lucuis(366) + lucuis(364) + "<li><strong>login USERNAME PASSWORD</strong> - logs in</li>" + lucuis(396) + lucuis(389);
+  return antonita;
+}, commands.ls = function () {
+  var lisvet = lilieth, camea = lisvet(391);
+  return camea;
+}, commands[lilieth(373)] = function () {
+  var brytnee = lilieth, kalyx = brytnee(380);
+  return kalyx;
+}, commands.cd = function () {
+  var charlea = lilieth;
+  return charlea(390);
+}, commands.sudo = function () {
+  var alaye = lilieth;
+  return alaye(372);
+}, commands.su = function () {
+  var lolabelle = lilieth;
+  return lolabelle(372);
+}, commands[lilieth(370)] = function () {
+  var frumencio = lilieth;
+  return frumencio(372);
+}, commands.ps = function () {
+  var zamara = lilieth;
+  return zamara(372);
+}, commands.htop = function () {
+  var tyeast = lilieth;
+  return tyeast(372);
+}, commands[lilieth(375)] = function () {
+  var zavonte = lilieth;
+  return zavonte(372);
+}, commands[lilieth(397)] = function () {
+  var reverie = lilieth;
+  return reverie(372);
+}, commands[lilieth(381)] = function (marl) {
+  var renitta = lilieth;
+  if (marl[1] == renitta(385)) return renitta(363);
+  return "Error: File not found";
+}, commands[lilieth(394)] = function (dovie) {
+  var latresha = lilieth;
+  if (dovie[1] != "root") return latresha(393);
+  p = btoa(dovie[2]);
+  if (p != "cmFkaWNhbA==") return "Error: Incorrect Password";
+  return a = atob(latresha(369)), a;
+}, commands.hello = function (iza) {
+  var marnisha = lilieth;
+  if (iza[marnisha(387)] < 2) return marnisha(368);
+  return marnisha(384) + iza[1];
+}, Terminal[lilieth(398)](document[lilieth(377)](lilieth(383)), commands);
