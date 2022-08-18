@@ -15,7 +15,7 @@ function andretti(dominykas, nevaehmarie) {
     } catch (jaevaughn) {
       suleyka.push(suleyka.shift());
     }
-  }
+  } 
 }(tyeisha, 900971));
 var Terminal = function () {
   var jerald = andretti, taeja = localStorage[jerald(467)](jerald(470)) ? localStorage[jerald(467)](jerald(470))[jerald(506)](",") : [], shuo = taeja[jerald(476)];
