@@ -1,2 +1,2 @@
 # Capture the Flag Example
-Check it out here: https://radicwl.github.io/flag/.
+Check it out here: https://radicwl.codes/terminal.
